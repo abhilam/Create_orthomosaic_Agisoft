@@ -3,7 +3,7 @@
 """
 Created on Thu Feb 23 14:38:10 2017
 Purpose: create a orthomosaice from the images 
-@author: abhilam
+@author: Abhishes lamsal
 """
 import os
 import PhotoScan
